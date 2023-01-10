@@ -1,0 +1,39 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+
+.form{
+  margin: 10px;
+  font-size: larger;
+}
+.todoinput{
+  margin: 30px;
+  font-size: larger;
+}
+.todoinput:hover{
+  border: #00B7FF solid 2px;
+}
+.todoinput2{
+  margin: 15px;
+  font-size: larger;
+}
+.todoinput2:hover{
+  border: #00B7FF solid 2px;
+}
+.table{
+  padding: 10px;
+  width: 100px;
+  height: 100px;
+  color: black;
+}
+.grey{
+  background-color: grey;
+  color: white;
+  border-radius: 5px;
+  padding: 15px;
+}
